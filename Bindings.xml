@@ -1,0 +1,7 @@
+<Bindings>
+    <!-- Click bindings on the secure buttons: key down = show marks, key up = apply. -->
+    <Binding name="CLICK FFmarksHoldButton:LeftButton" header="FFMARKS" category="ADDONS"/>
+    <Binding name="CLICK FFmarksWorldButton:LeftButton" category="ADDONS"/>
+    <Binding name="CLICK FFmarksPingButton:LeftButton" category="ADDONS"/>
+    <Binding name="CLICK FFmarksPingWorldButton:LeftButton" category="ADDONS"/>
+</Bindings>

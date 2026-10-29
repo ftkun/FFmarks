@@ -1,0 +1,15 @@
+## Interface: 16001, 120105
+## Title: |cFFFF0000FF|rmarks
+## Notes: Hold a key, point at a raid mark, release: mark is set on mouseover or target, also works with world marks
+## Author: Ftkun
+## Version: 0.01
+## OptionalDeps: Ace3
+## SavedVariables: FFmarksDB
+
+embeds.xml
+Locale.lua
+Core.lua
+Snippets.lua
+Marks.lua
+OptionsUI.lua
+Config.lua
