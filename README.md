@@ -73,4 +73,4 @@ Bundled libraries in `Libs/` keep their own licenses:
 
 ## Credits
 
-Developed with help from Claude (Anthropic).
+Co-developed with Claude (Anthropic).
